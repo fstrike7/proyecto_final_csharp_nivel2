@@ -1,0 +1,9 @@
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\bin\Debug\Conexion.dll
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\bin\Debug\Conexion.pdb
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\bin\Debug\Modelo.dll
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\bin\Debug\Modelo.pdb
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\obj\Debug\Conexion.dll
+E:\Documentos\Codigo\CSHARP\CursoMaxi\ProyectoFinal\proyecto-final\Conexion\obj\Debug\Conexion.pdb
